@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "MindWyn - Digital Wellness Companion",
+  "version": "1.0.0",
+  "description": "Your personal digital wellness companion for stress management and emotional well-being",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "icon-192.png",
+    "48": "icon-192.png",
+    "128": "icon-512.png"
+  },
+  "permissions": []
+}
